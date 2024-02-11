@@ -1,0 +1,4 @@
+ttkthemes==3.2.2
+keyboard==0.13.5
+google-generativeai==0.3.2
+openai==1.12.0
