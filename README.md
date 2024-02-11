@@ -1,5 +1,5 @@
 # AI Chatbot
-AI Chatbot is an open-source Python GUI application built using the Tkinter library. It offers users an interface to interact with text and vision AI models from both OpenAI and Google.
+An open-source Python GUI application built using the Tkinter library. It offers users an interface to interact with text and vision AI models from both OpenAI and Google.
 
 ## Screenshots
 <img src="screenshots/screenshot.png" alt="Options" width="300"/>
